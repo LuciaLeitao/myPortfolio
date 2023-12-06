@@ -1,2 +1,3 @@
 # myPortfolio
-Projecto final | Formação Fullstack
+Projecto 01 | Formação Fullstack
+HTLM | CSS | JS
